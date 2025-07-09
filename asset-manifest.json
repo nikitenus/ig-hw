@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ig-hw/static/css/main.18f8ca56.css",
+    "main.js": "/ig-hw/static/js/main.3a2bf48a.js",
+    "static/js/787.66cb4309.chunk.js": "/ig-hw/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/ig-hw/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/ig-hw/index.html",
+    "main.18f8ca56.css.map": "/ig-hw/static/css/main.18f8ca56.css.map",
+    "main.3a2bf48a.js.map": "/ig-hw/static/js/main.3a2bf48a.js.map",
+    "787.66cb4309.chunk.js.map": "/ig-hw/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f8ca56.css",
+    "static/js/main.3a2bf48a.js"
+  ]
+}
