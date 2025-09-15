@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ig-hw/static/css/main.61d9a5b4.css",
-    "main.js": "/ig-hw/static/js/main.e51ca979.js",
+    "main.css": "/ig-hw/static/css/main.b857fc20.css",
+    "main.js": "/ig-hw/static/js/main.6f5f117d.js",
     "static/js/787.66cb4309.chunk.js": "/ig-hw/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/ig-hw/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/ig-hw/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -10,12 +10,12 @@
     "static/media/checked.svg": "/ig-hw/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/ig-hw/index.html",
     "static/media/burger.svg": "/ig-hw/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.61d9a5b4.css.map": "/ig-hw/static/css/main.61d9a5b4.css.map",
-    "main.e51ca979.js.map": "/ig-hw/static/js/main.e51ca979.js.map",
+    "main.b857fc20.css.map": "/ig-hw/static/css/main.b857fc20.css.map",
+    "main.6f5f117d.js.map": "/ig-hw/static/js/main.6f5f117d.js.map",
     "787.66cb4309.chunk.js.map": "/ig-hw/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61d9a5b4.css",
-    "static/js/main.e51ca979.js"
+    "static/css/main.b857fc20.css",
+    "static/js/main.6f5f117d.js"
   ]
 }
